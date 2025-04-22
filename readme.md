@@ -19,3 +19,9 @@ Dans ce projet, je vais faire mes premiers tests unitaires avec Jest une librair
 
 - Dans cet étape, faudra installer Jest
 - ![Jest](images/npmJest.png)
+
+
+### Etape 4: Configuration
+
+- Dans cet étape, nous allons configurer le fichier package.json pour validez la commande de test
+- ![configuration](images/configuration.png)
