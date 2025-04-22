@@ -14,3 +14,8 @@ Dans ce projet, je vais faire mes premiers tests unitaires avec Jest une librair
 
 - Entrez la commande suivante comme dans l'image :
 - ![npm init](images/initialisation.png)
+
+### Etape 3: Installation de Jest
+
+- Dans cet étape, faudra installer Jest
+- ![Jest](images/npmJest.png)

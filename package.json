@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/YoussefGhollamallah/test-unitaire-debutant/issues"
   },
-  "homepage": "https://github.com/YoussefGhollamallah/test-unitaire-debutant#readme"
+  "homepage": "https://github.com/YoussefGhollamallah/test-unitaire-debutant#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
