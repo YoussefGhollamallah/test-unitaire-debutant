@@ -25,3 +25,10 @@ Dans ce projet, je vais faire mes premiers tests unitaires avec Jest une librair
 
 - Dans cet étape, nous allons configurer le fichier package.json pour validez la commande de test
 - ![configuration](images/configuration.png)
+
+
+### Création d'une fonction d'addition
+
+- Créer un fichier math.js et créer une fonction addition qui retourne la somme de deux nombres et affiche le résultat.
+
+- ![fonction addition](images/function.png)
