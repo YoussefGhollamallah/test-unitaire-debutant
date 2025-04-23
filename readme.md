@@ -38,5 +38,17 @@ Dans ce projet, je vais faire mes premiers tests unitaires avec Jest une librair
 
 - Créer un fichier math.test.js et mettre en place un script de test pour vérifier la function addition 
 
+- importer le fichier math.js et appeler la function addition
+
 - ![script](images/testMath.png)
+
+- une fois le test créer vous pourrez lancer le test avec la commande suivante dans le terminal de votre IDE:
+
+```
+npm test
+```
+
+- vous aurez des résultat par la suite comme celui si tous fonctionne bien :
+
+- ![testunitaire](images/testunitaire.png)
 
