@@ -52,3 +52,14 @@ npm test
 
 - ![testunitaire](images/testunitaire.png)
 
+
+### CAS D'ERREUR :
+
+- Il est fortement possible que au cours de vos test, il y'as des erreurs ou que vous obtenez pas le resultat entendu
+- Ici, vous pouvez voir le cas si on modifie le signe d'addition par celui de la multiplication le resultat que l'on attendras ne sera pas le bon
+- ![multiplication](images/multiplication.png)
+- ![erreur](images/fail.png)
+
+- Mais quand on modifie de nouveau nos test cela fonctionne de nouveau
+- ![new](images/e.png)
+- ![newtest](images/newtest.png) 
