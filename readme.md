@@ -32,3 +32,11 @@ Dans ce projet, je vais faire mes premiers tests unitaires avec Jest une librair
 - Créer un fichier math.js et créer une fonction addition qui retourne la somme de deux nombres et affiche le résultat.
 
 - ![fonction addition](images/function.png)
+
+
+### Création d'un test unitaire
+
+- Créer un fichier math.test.js et mettre en place un script de test pour vérifier la function addition 
+
+- ![script](images/testMath.png)
+
